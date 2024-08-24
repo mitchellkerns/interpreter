@@ -1,5 +1,5 @@
 # interpreter
-Analyze Nessus output in a format that is more useful for penetration testing.
+Analyze Nessus output in a format that is more useful for pen-testing.
 
 ```
 PS C:\> python .\interpreter.py --help
