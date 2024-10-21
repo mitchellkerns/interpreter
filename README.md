@@ -38,4 +38,8 @@ This will try to list every web page that nessus detected while it was scanning.
 
 
 # Test:
-[Hi](http://192.168.0.102)
+[Hi](http://192.168.0.102)  
+[hello](http://10.121.43.110/cashclubvanillaconhost/cagewebservice.svc/doprocess)   
+[hey](http://10.121.43.110/echeckhost/echeckkioskservice.svc/kioskdata/doprocess)  
+[aloha](http://10.121.43.110:3003/cash-access)  
+[bonjour](http://localhost/)    
